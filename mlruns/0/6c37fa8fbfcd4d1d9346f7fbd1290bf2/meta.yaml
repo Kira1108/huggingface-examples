@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/huan/projects/huggingface-examples/mlruns/0/6c37fa8fbfcd4d1d9346f7fbd1290bf2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6c37fa8fbfcd4d1d9346f7fbd1290bf2
+run_uuid: 6c37fa8fbfcd4d1d9346f7fbd1290bf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673363182623
+status: 1
+tags: []
+user_id: huan
