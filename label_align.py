@@ -1,4 +1,8 @@
-"""Align labels for token classification task
+"""
+Use LabelAligner doesn't change `Tokenizer` behavior.
+You can safely pass the toeknizer into huggingface Trainer.
+
+Align labels for token classification task
 Simple Case
 ```
 aligner = LabelAligner()
